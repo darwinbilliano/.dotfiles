@@ -4,7 +4,7 @@ export ZD_DIR="$HOME/.zd"
 # ZD_PICKER="fzf --print-query"
 
 # Override the picker args
-# ZD_PICKER_ARGS=""
+ZD_PICKER_ARGS="--height 9 --layout reverse --border"
 
 # Define which plugins to enable
 ZD_PLUGINS=(cd tmux)
