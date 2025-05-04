@@ -45,4 +45,5 @@
 font-family = Cascadia Code
 font-size = 12
 adjust-cell-height = 20%
+theme = catppuccin-mocha.conf
 mouse-hide-while-typing = true
