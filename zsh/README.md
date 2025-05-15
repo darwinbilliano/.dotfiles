@@ -8,5 +8,5 @@
 [zsh-badge]: https://img.shields.io/badge/zsh-zsh-blue
 [ohmyzsh]: https://ohmyz.sh/
 [ohmyzsh-badge]: https://img.shields.io/badge/ohmyzsh-ohmyzsh-yellow
-[starship]: https://github.com/starship/starship
+[starship]: https://starship.rs/
 [starship-badge]: https://img.shields.io/badge/starship-starship-purple
